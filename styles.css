@@ -82,11 +82,11 @@ main {
     font-weight: bold;
     color: #075a5a;
     margin-bottom: 20px;
-    margin-top: -80px; /* Negative margin to move the heading up */
+    margin-top: -80px; 
 }
 
 .amount-staked {
-    margin-top: -20px; /* Negative margin to move the amount-staked section up */
+    margin-top: -20px; 
     font-size: 24px;
     color: #075a5a;
 }
@@ -201,20 +201,20 @@ footer {
 }
 
 .footer-kelp-logo {
-    width: 100px; /* Adjust size as needed */
+    width: 100px; 
     height: auto;
 }
 
 .footer-icons {
     display: flex;
-    gap: 10px; /* Space between icons */
+    gap: 10px; 
     margin-bottom: 20px;
 }
 
 .footer-icon {
-    width: 40px; /* Size of circular buttons */
-    height: 40px; /* Size of circular buttons */
-    border-radius: 50%; /* Make the button circular */
+    width: 40px; 
+    height: 40px; 
+    border-radius: 50%; 
     border: none;
     background-color: #d1eded;
     padding: 0;
@@ -280,19 +280,19 @@ footer {
 }
 
 .why-liquid-restaking {
-    padding-bottom: 0px; /* No bottom padding */
+    padding-bottom: 0px; 
     background-image: url("https://kelpdao.xyz/assets/landingPage/restakers_bg.svg");
     background-size: cover;
     background-position: center;
 }
 
 .why-heading-container {
-    padding-top: 20px; /* Keep heading at 20px from the top */
+    padding-top: 20px; 
     text-align: center;
 }
 
 .why-content-container {
-    margin-top: 100px; /* Add margin to move content and image lower */
+    margin-top: 100px; 
 }
 
 .why-content {
@@ -301,7 +301,7 @@ footer {
     align-items: center;
     width: 100%;
     max-width: 1200px;
-    margin: 0 auto; /* Center align */
+    margin: 0 auto; 
 }
 
 .why-left {
@@ -433,7 +433,7 @@ footer {
 
 .supported-tokens {
     width: 100%;
-    max-width: 1200px; /* Adjust width as needed */
+    max-width: 1200px; 
 }
 
 
@@ -445,7 +445,7 @@ footer {
 
 .tokens-text-container {
     flex: 1;
-    margin-right: 20px; /* Optional: adds some space between text and image */
+    margin-right: 20px; 
 }
 
 .supported-tokens-text {
@@ -499,7 +499,7 @@ h2 {
 
 #auditors-container {
     background-color: #d8f0f0;
-    padding: 40px 20px; /* Adjust the padding as needed */
+    padding: 40px 20px; 
 }
 
 .container {
@@ -517,7 +517,7 @@ h2 {
 
 .auditors-header {
     flex: 1;
-    text-align: left; /* Aligns the header text to the left */
+    text-align: left; 
 }
 
 .auditors {
@@ -545,8 +545,8 @@ h2 {
     font-size: 16px;
     color: #075a5a;
     text-decoration: none;
-    margin-top: -5px; /* Use negative margin to move it closer to the image */
-    display: inline-block; /* Ensures margin works correctly */
+    margin-top: -5px; 
+    display: inline-block; 
 }
 
 .report-link:hover {
@@ -643,8 +643,8 @@ h2 {
 }
 
 .partner-image {
-    width: 300px; /* Adjust the width to make the logos larger */
-    height: 300px; /* Adjust the height accordingly */
+    width: 300px; 
+    height: 300px; 
     border-radius: 50%;
     margin: 0 20px;
 }
@@ -685,7 +685,7 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 10px; /* Space between input and button */
+    gap: 10px; 
 }
 
 .email-input {
@@ -694,12 +694,12 @@ h2 {
     border: 1px solid #075a5a;
     border-radius: 15px;
     width: 100%;
-    max-width: 300px; /* Adjust width as needed */
+    max-width: 300px; 
     box-sizing: border-box;
 }
 
 .signup-button {
-    padding: 16px 20px; /* Adjust padding as needed */
+    padding: 16px 20px; 
     background-color: #075a5a;
     color: #fff;
     border: 1px solid #075a5a;
@@ -717,7 +717,7 @@ h2 {
 
 
 .separator-container-with-star {
-    background-image: url('seperator_star.svg'); /* Replace with your star separator image */
+    background-image: url('seperator_star.svg'); 
     background-size: cover;
     background-repeat: no-repeat;
     width: 100vw;
